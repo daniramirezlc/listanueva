@@ -50,7 +50,28 @@
 	
 	
 	
+<channel>
+    <name>[COLOR lime]•  [/COLOR][COLOR skyblue]Cuartos de final[/COLOR] [COLOR coral][Recomendada Calidad SD][/COLOR] </name>
+    <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
+    <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
 	
+	
+	<item>
+			<title>[COLOR skyblue]AdryanList[COLOR white]>[/COLOR]TotalPlay[/COLOR]</title> 
+			<link>http://ignora.me</link>
+			<thumbnail>http://y.cdn.entutele.com/media/channels/big/http://gradajoven.es/logo/logo/all/ARENAVISION%203.png.gif</thumbnail>
+			<thumbnail>http://y.cdn.entutele.com/media/channels/big/.gif</thumbnail></item>
+
+<item><title>[COLOR yellow]TP: CALIDAD SD  [500x360P] [/COLOR]</title><link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL832/PROFILE03.m3u8</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/.gif</thumbnail></item>
+
+<item><title>[COLOR deepskyblue][FAV] [/COLOR][COLOR skyblue]Chivas Vs America 16:05 PM[/COLOR]</title><link>acestream://35b23290b2bc6aca1205b32830673672f171aa99</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/fox.gif</thumbnail></item>
+<item><title>[COLOR deepskyblue][FAV] [/COLOR][COLOR skyblue]Chivas Vs America 16:05 PM OP 2[/COLOR]</title><link>acestream://df2068aa88eaa65edfee60d36845dbc87a0087a4</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/home-and-health.gif</thumbnail></item>
+
+
+
+
+	</items>
+	</channel>	
 	
 	
 	
